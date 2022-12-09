@@ -1,0 +1,23 @@
+#title{
+  background-color: black;
+}
+
+.product-image{
+height: 90%;
+width: 100.9%;
+position: relative;
+right: 6px;
+
+}
+.navbar{
+  position: relative;
+  bottom: 800px;
+}
+#features{
+  background-color: red;
+  position: relative;
+  bottom: 380px;
+  margin:0;
+  padding: 10% 0 10% 0;
+
+}
